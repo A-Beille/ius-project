@@ -15,12 +15,16 @@ input[name="link"]{
     color: white;
     font-size: 105%;
     cursor: pointer;
+    border-radius: 5px;
+    border: 0px solid;
     transition: 100ms;
 }
 input[name="link"]:hover{
     background-color: #67aadd;
     text-align: center;
     color: white;
+    border-radius: 5px;
+    border: 0px solid;
     font-size: 105%;
     cursor: pointer;
     transition: 100ms;
