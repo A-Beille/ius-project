@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(34, 39, 44);
+    color: white;
+    font-family: system-ui
+}
+div.a{
+    text-align: right;
+}
+div.b{
+    text-align: center;
+}
+input[name="link"]{
+    background-color: #78c5ff;
+    text-align: center;
+    border-radius: 5px;
+    border: 0px solid;
+    padding: 19px 10px;
+    width: 200px;
+    color: white;
+    font-size: 105%;
+    cursor: pointer;
+    transition: 100ms;
+}
+input[name="link"]:hover{
+    background-color: #67aadd;
+    text-align: center;
+    border-radius: 5px;
+    border: 0px solid;
+    padding: 19px 10px;
+    width: 200px;
+    color: white;
+    font-size: 105%;
+    cursor: pointer;
+    transition: 100ms;
+}
