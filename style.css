@@ -33,3 +33,7 @@ input[name="link"]:hover{
     cursor: pointer;
     transition: 100ms;
 }
+.bottom {
+    position: fixed;
+    bottom: 0;
+}
