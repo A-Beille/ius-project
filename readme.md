@@ -1,6 +1,6 @@
 <h1>iUS project<h1>
 <h2>Ce dossier est celui du site du projet <a href="https://ius-project.herokuapp.com">iUS</a>.</h2>
-<img onclick="window.location.href = 'index.html';" src="./icon-ius.png" height="70" style="cursor: pointer;" title="Revenir &agrave; l'accueil">
+<img onclick="window.location.href = 'https://ius-project.herokuapp.com';" src="./icon-ius.png" height="70" style="cursor: pointer;" title="Revenir &agrave; l'accueil">
  <div class="b">
 <h1 style="color:  #5865F2 ;">iUS Project</h1>
 <h2>Voici le projet <span style="color:  #5865F2 ;">iUS</span>. Ce projet contient des bots simples, dont l'objectif est de ne pas &ecirc;tre tels que les bots polyvalents.</h3>
