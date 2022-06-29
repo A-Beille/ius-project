@@ -36,5 +36,5 @@
 </div>
 <br><br><br>
 <h6>*Indice de logging: Chiffre situ&eacute; entre 0 et 1 permettant de conna&icirc;tre le nombre d'informations envoy&eacute;es par les bots, incluant pseudo, avatar, identifiant, et contenu des messages. D'autres informations, sur les serveurs par exemple, peuvent être d&eacute;livr&eacute;es. Plus ce nombre est proche de 1, plus le nombre d'informations d&eacute;livr&eacute;es est haut. Au contraire, plus il est proche de 0, plus il est bas.</h6>
- <h5>🄯 <a href="https://ius-project.herokuapp.com">iUS Project</a>. Merci de ne pas faire de l'argent en utilisant nos bots.<br>En utilisant nos bots, vous acceptez nos <a href="./terms">conditions d'utilisation</a>.</h5>
+ <h5>🄯 <a href="https://ius-project.herokuapp.com">iUS Project</a>. Merci de ne pas faire de l'argent en utilisant nos bots.<br>En utilisant nos bots, vous acceptez nos <a href="https://ius-project.herokuapp.com/terms">conditions d'utilisation</a>.</h5>
 </BODY>
