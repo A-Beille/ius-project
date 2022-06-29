@@ -32,7 +32,6 @@
  </span>
 <h3 style="size: 50%;">C&eacute;lius est un bot qui dit feur. Ces derniers temps la blague de r&eacute;pondre "feur" &agrave; "quoi" est tr&egrave;s pr&eacute;sente. C&eacute;lius est exactement l'exemple des partisants de ce camp: il r&eacute;pondra feur &agrave; quoi...mais pas que.</span><br><br><span style="text-decoration: underline;">Indice de logging: <span style="color: rgb(0, 255, 0);">0</span></span></h3>
 <div class="b">
-<INPUT TYPE="button" NAME="link" VALUE="Page d'installation des bots" onclick="window.location.href = './0ao9_54cd.html'" >
 </div>
 <br><br><br>
 <h6>*Indice de logging: Chiffre situ&eacute; entre 0 et 1 permettant de conna&icirc;tre le nombre d'informations envoy&eacute;es par les bots, incluant pseudo, avatar, identifiant, et contenu des messages. D'autres informations, sur les serveurs par exemple, peuvent être d&eacute;livr&eacute;es. Plus ce nombre est proche de 1, plus le nombre d'informations d&eacute;livr&eacute;es est haut. Au contraire, plus il est proche de 0, plus il est bas.</h6>
